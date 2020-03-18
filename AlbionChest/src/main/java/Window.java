@@ -12,9 +12,7 @@ public class Window extends JFrame {
         setVisible(true);
         setSize(700, 500);
         setLocation(50, 50);
-        setLayout(new FlowLayout());
 
-        add(new Button("Suma"));
 
     }
 }
