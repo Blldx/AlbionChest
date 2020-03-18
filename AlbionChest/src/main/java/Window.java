@@ -11,7 +11,7 @@ public class Window extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
         setSize(700, 500);
-        setLocation(50, 50);
+        setLocation(50, 50); /* teraz rob button do sumowania i poustawiaj te gowno */
 
 
     }
